@@ -1,0 +1,216 @@
+Timestamp:  30
+Number of Cars: 99995
+Traffic Signal Id: 6891
+Timestamp:  50
+Number of Cars: 99991
+Traffic Signal Id: 10948
+Timestamp:  5
+Number of Cars: 99983
+Traffic Signal Id: 1121
+Timestamp:  75
+Number of Cars: 99995
+Traffic Signal Id: 15406
+Timestamp:  95
+Number of Cars: 99975
+Traffic Signal Id: 19423
+Timestamp:  65
+Number of Cars: 99963
+Traffic Signal Id: 13715
+Timestamp:  140
+Number of Cars: 99999
+Traffic Signal Id: 28595
+Timestamp:  140
+Number of Cars: 99988
+Traffic Signal Id: 28313
+Timestamp:  175
+Number of Cars: 99985
+Traffic Signal Id: 35290
+Timestamp:  225
+Number of Cars: 99993
+Traffic Signal Id: 45434
+Timestamp:  205
+Number of Cars: 99991
+Traffic Signal Id: 41583
+Timestamp:  195
+Number of Cars: 99979
+Traffic Signal Id: 39174
+Timestamp:  285
+Number of Cars: 99996
+Traffic Signal Id: 57526
+Timestamp:  255
+Number of Cars: 99980
+Traffic Signal Id: 51321
+Timestamp:  270
+Number of Cars: 99939
+Traffic Signal Id: 54014
+Timestamp:  350
+Number of Cars: 99998
+Traffic Signal Id: 70023
+Timestamp:  335
+Number of Cars: 99997
+Traffic Signal Id: 67050
+Timestamp:  335
+Number of Cars: 99993
+Traffic Signal Id: 67314
+Timestamp:  385
+Number of Cars: 99999
+Traffic Signal Id: 77387
+Timestamp:  385
+Number of Cars: 99985
+Traffic Signal Id: 77223
+Timestamp:  405
+Number of Cars: 99977
+Traffic Signal Id: 81754
+Timestamp:  470
+Number of Cars: 99994
+Traffic Signal Id: 94512
+Timestamp:  455
+Number of Cars: 99975
+Traffic Signal Id: 91412
+Timestamp:  465
+Number of Cars: 99973
+Traffic Signal Id: 93576
+Timestamp:  530
+Number of Cars: 99989
+Traffic Signal Id: 106849
+Timestamp:  490
+Number of Cars: 99989
+Traffic Signal Id: 98146
+Timestamp:  525
+Number of Cars: 99976
+Traffic Signal Id: 105726
+Timestamp:  590
+Number of Cars: 99986
+Traffic Signal Id: 118244
+Timestamp:  595
+Number of Cars: 99975
+Traffic Signal Id: 119333
+Timestamp:  550
+Number of Cars: 99974
+Traffic Signal Id: 110987
+Timestamp:  655
+Number of Cars: 99998
+Traffic Signal Id: 131348
+Timestamp:  615
+Number of Cars: 99998
+Traffic Signal Id: 123356
+Timestamp:  630
+Number of Cars: 99982
+Traffic Signal Id: 126654
+Timestamp:  675
+Number of Cars: 99993
+Traffic Signal Id: 135747
+Timestamp:  690
+Number of Cars: 99993
+Traffic Signal Id: 138623
+Timestamp:  660
+Number of Cars: 99977
+Traffic Signal Id: 132540
+Timestamp:  770
+Number of Cars: 99997
+Traffic Signal Id: 154306
+Timestamp:  730
+Number of Cars: 99989
+Traffic Signal Id: 146148
+Timestamp:  720
+Number of Cars: 99965
+Traffic Signal Id: 144612
+Timestamp:  825
+Number of Cars: 99973
+Traffic Signal Id: 165615
+Timestamp:  800
+Number of Cars: 99971
+Traffic Signal Id: 160830
+Timestamp:  825
+Number of Cars: 99970
+Traffic Signal Id: 165276
+Timestamp:  845
+Number of Cars: 99986
+Traffic Signal Id: 169779
+Timestamp:  870
+Number of Cars: 99984
+Traffic Signal Id: 174422
+Timestamp:  860
+Number of Cars: 99984
+Traffic Signal Id: 172611
+Timestamp:  930
+Number of Cars: 99997
+Traffic Signal Id: 186398
+Timestamp:  945
+Number of Cars: 99994
+Traffic Signal Id: 189747
+Timestamp:  920
+Number of Cars: 99993
+Traffic Signal Id: 184196
+Timestamp:  975
+Number of Cars: 99999
+Traffic Signal Id: 195027
+Timestamp:  1005
+Number of Cars: 99994
+Traffic Signal Id: 201086
+Timestamp:  980
+Number of Cars: 99978
+Traffic Signal Id: 196988
+Timestamp:  1025
+Number of Cars: 99995
+Traffic Signal Id: 205032
+Timestamp:  1045
+Number of Cars: 99992
+Traffic Signal Id: 209781
+Timestamp:  1040
+Number of Cars: 99989
+Traffic Signal Id: 208390
+Timestamp:  1115
+Number of Cars: 99966
+Traffic Signal Id: 223212
+Timestamp:  1095
+Number of Cars: 99966
+Traffic Signal Id: 219275
+Timestamp:  1090
+Number of Cars: 99903
+Traffic Signal Id: 218350
+Timestamp:  1195
+Number of Cars: 99991
+Traffic Signal Id: 239427
+Timestamp:  1170
+Number of Cars: 99979
+Traffic Signal Id: 234419
+Timestamp:  1195
+Number of Cars: 99970
+Traffic Signal Id: 239730
+Timestamp:  1200
+Number of Cars: 99998
+Traffic Signal Id: 240599
+Timestamp:  1225
+Number of Cars: 99993
+Traffic Signal Id: 245751
+Timestamp:  1210
+Number of Cars: 99985
+Traffic Signal Id: 242990
+Timestamp:  1290
+Number of Cars: 99990
+Traffic Signal Id: 258822
+Timestamp:  1260
+Number of Cars: 99967
+Traffic Signal Id: 252150
+Timestamp:  1300
+Number of Cars: 99966
+Traffic Signal Id: 260592
+Timestamp:  1320
+Number of Cars: 99994
+Traffic Signal Id: 264952
+Timestamp:  1360
+Number of Cars: 99987
+Traffic Signal Id: 272423
+Timestamp:  1360
+Number of Cars: 99976
+Traffic Signal Id: 272563
+Timestamp:  1385
+Number of Cars: 99996
+Traffic Signal Id: 277839
+Timestamp:  1400
+Number of Cars: 99994
+Traffic Signal Id: 280677
+Timestamp:  1380
+Number of Cars: 99975
+Traffic Signal Id: 276965
